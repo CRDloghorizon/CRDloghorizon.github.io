@@ -1,5 +1,5 @@
 ---
-title: Publications
+title: Publications included in the thesis
 cms_exclude: true
 
 # View.
