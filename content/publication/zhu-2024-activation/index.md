@@ -5,7 +5,7 @@ authors:
 - Yizhi Chen
 - Zhonghai Lu
 weight: 13
-date: '2024-04'
+date: April 2024
 publishDate: "2025-01-01T00:05:00Z"
 
 doi: "https://doi.org/10.1109/VLSITSA60681.2024.10546384"
