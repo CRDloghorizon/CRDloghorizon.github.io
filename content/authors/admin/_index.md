@@ -49,24 +49,24 @@ interests:
 education:
   - area: Doctoral Candidate in Information and Communication Technology
     institution: KTH Royal Institute of Technology
-    date_start: Sept 2020
-    date_end: Apr 2025 (Expected)
+    date_start: September 2020
+    date_end: April 2025 (Expected)
     # summary: |
     # button:
     #   text: 'Read Thesis'
     #   url: 'https://example.com'
   - area: MSc in Embedded Systems
     institution: KTH Royal Institute of Technology
-    date_start: Aug 2018
-    date_end: Aug 2020
+    date_start: August 2018
+    date_end: August 2020
     # summary: |
     #   GPA: 
     #   Courses included:
 
   - area: BSc in Electrical and Computer Engineering
     institution: Shanghai Jiao Tong University
-    date_start: Sept 2014
-    date_end: Aug 2018
+    date_start: September 2014
+    date_end: August 2018
     # summary: |
     #   GPA:
 
