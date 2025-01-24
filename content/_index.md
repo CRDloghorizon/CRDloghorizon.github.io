@@ -9,7 +9,7 @@ design:
   spacing: "6rem"
 
 sections:
-  - block: biography
+  - block: resume-biography-3
     content:
       # Choose a user profile to display (a folder name within `content/authors/`)
       username: admin
@@ -19,12 +19,12 @@ sections:
       #   text: Download CV
       #   url: uploads/resume.pdf
     design:
-      css_class: dark
+      css_class: light
       background:
-        color: black
+        color: white
         image:
           # Add your image background to `assets/media/`.
-          filename: stacked-peaks.svg
+          filename: bg1.svg
           filters:
             brightness: 1.0
           size: cover
@@ -33,13 +33,15 @@ sections:
   - block: collection
     id: papers
     content:
-      title: Recent Publications
+      title: Publications included in the thesis
+      count: 0
       text: ""
       filters:
         folders:
           - publication
         exclude_featured: false
+      sort_by: 'weight'
     design:
       view: citation
-  
+
 ---

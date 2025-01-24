@@ -1,17 +1,14 @@
 ---
 # Display name
-title: Wenyao Zhu 朱文耀
+title: Wenyao Zhu (朱文耀)
 
 # Name pronunciation (optional)
-name_pronunciation: Wenyao Zhu
+# name_pronunciation: Wenyao Zhu
 
 # Full name (for SEO)
 first_name: Wenyao
 last_name: Zhu
 
-# Status emoji
-# status:
-#   icon: ☕️
 
 # Is this the primary user of the site?
 superuser: true
@@ -47,26 +44,26 @@ interests:
   - Embedded Sensor Systems
 
 education:
-  - area: Doctoral Candidate in Information and Communication Technology
+  - area: Doctoral Candidate in Information and Communication Technology, Apr 2025 (Expected)
     institution: KTH Royal Institute of Technology
-    date_start: September 2020
-    date_end: April 2025 (Expected)
+    date_start: 2020-09-01
+    date_end: 2025-04-01
     # summary: |
     # button:
     #   text: 'Read Thesis'
     #   url: 'https://example.com'
-  - area: MSc in Embedded Systems
+  - area: MSc in Embedded Systems, Aug 2020
     institution: KTH Royal Institute of Technology
-    date_start: August 2018
-    date_end: August 2020
+    date_start: 2018-08-28
+    date_end: 2020-08-30
     # summary: |
     #   GPA: 
     #   Courses included:
 
-  - area: BSc in Electrical and Computer Engineering
+  - area: BSc in Electrical and Computer Engineering, Aug 2018
     institution: Shanghai Jiao Tong University
-    date_start: September 2014
-    date_end: August 2018
+    date_start: 2014-09-01
+    date_end: 2018-08-18
     # summary: |
     #   GPA:
 
@@ -102,28 +99,13 @@ education:
   #       icon: 
 
 
-# languages:
-#   - name: English
-#     percent: 75
-#   - name: Chinese
-#     percent: 100
 
-
-# Awards.
-#   Add/remove as many awards below as you like.
-#   Only `title`, `awarder`, and `date` are required.
-#   Begin multi-line `summary` with YAML's `|` or `|2-` multi-line prefix and indent 2 spaces below.
-# awards:
-#   - title: 
-#     url: 
-#     date: 
-#     awarder: 
-#     icon: 
-#     summary: |
 ---
 
 ## Biography
 
-I am a final-year Doctoral candidate at the Division of Electronic and Embedded Systems, School of EECS, KTH Royal Institute of Technology, mainly advised by Professor [Zhonghai Lu](https://www.kth.se/profile/zhonghai), and co-supervised by Associate Professor [Dejiu Chen](https://www.kth.se/profile/chendj). My recent research focuses on Network-on-Chip-based hardware accelerators, aiming to enhance their performance and efficiency for deep neural network tasks. My research interests include hardware accelerators for AI, Network-on-Chip, and embedded sensor systems. 
+I am a final-year Doctoral student at the Division of Electronic and Embedded Systems, School of EECS, KTH Royal Institute of Technology, mainly advised by Professor [Zhonghai Lu](https://www.kth.se/profile/zhonghai), and co-supervised by Associate Professor [Dejiu Chen](https://www.kth.se/profile/chendj). 
+
+My research interests include hardware accelerators for AI, Network-on-Chip, and embedded sensor systems. My recent research focuses on Network-on-Chip-based hardware accelerators, aiming to enhance their performance and efficiency for deep neural network tasks. 
 
 I received a B.S. degree in Electronic and Computer Engineering from Shanghai Jiaotong University, Shanghai, China, in 2018, and an M.S. degree in embedded systems from KTH Royal Institute of Technology, Stockholm, Sweden, in 2020.

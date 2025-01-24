@@ -4,9 +4,9 @@ authors:
 - Wenyao Zhu
 - Yizhi Chen
 - Zhonghai Lu
-date: 2024
+date: 2024-12-23
 doi: ""
-weight: 12
+weight: 15
 
 # Schedule page publish date (NOT publication's date).
 publishDate: "2025-01-01T00:03:00Z"
@@ -18,7 +18,7 @@ publication_types: ['Preprint']
 
 # Publication name and optional abbreviated publication name.
 publication: ""
-publication_short: ""
+publication_short: "In Submission to *ACM TOMACS*"
 
 abstract: In Submission
 

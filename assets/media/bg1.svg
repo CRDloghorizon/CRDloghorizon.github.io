@@ -1,0 +1,27 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 200 200" style="width: 100%; height: 100%;">
+  <style>
+    :root {
+      --background-color: #e0f7fa; /* Light theme background color */
+      --rect-color: #b3e5fc;       /* Light theme rectangle color */
+    }
+
+    @media (prefers-color-scheme: dark) {
+      :root {
+        --background-color: #2e2e2e; /* Dark theme background color */
+        --rect-color: #4f4f4f;       /* Dark theme rectangle color */
+      }
+    }
+  </style>
+  <rect width="200" height="200" fill="var(--background-color)" />
+
+  <!-- Pattern of small rectangles -->
+  <rect x="10" y="10" width="40" height="20" fill="var(--rect-color)" />
+  <rect x="50" y="30" width="40" height="20" fill="var(--rect-color)" />
+  <rect x="90" y="50" width="40" height="20" fill="var(--rect-color)" />
+  <rect x="130" y="70" width="40" height="20" fill="var(--rect-color)" />
+  <rect x="170" y="90" width="40" height="20" fill="var(--rect-color)" />
+  <rect x="-10" y="90" width="40" height="20" fill="var(--rect-color)" />
+  <rect x="30" y="110" width="40" height="20" fill="var(--rect-color)" />
+  <rect x="70" y="130" width="40" height="20" fill="var(--rect-color)" />
+  <rect x="110" y="150" width="40" height="20" fill="var(--rect-color)" />
+</svg>

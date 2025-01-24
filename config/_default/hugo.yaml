@@ -54,3 +54,11 @@ security:
   _merge: deep
 sitemap:
   _merge: deep
+
+cascade:
+  # Configure papers
+  - _target:
+      path: /publication/**
+    reading_time: false
+    share: false
+    pager: false
