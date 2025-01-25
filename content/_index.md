@@ -18,6 +18,9 @@ sections:
       # button:
       #   text: Download CV
       #   url: uploads/resume.pdf
+      button:
+        text: Download thesis draft
+        url: uploads/thesis_v1.pdf
     design:
       css_class: light
       background:
