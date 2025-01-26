@@ -1,7 +1,7 @@
 ---
 title: Evaluation of Time Series Clustering on Embedded Sensor Platform
 authors:
-- Wenyao Zhu
+- admin
 - Zhonghai Lu
 
 date: 2021-09-01
@@ -11,7 +11,7 @@ publishDate: '2025-01-20T15:03:01.529464Z'
 publication_types: ['paper-conference']
 
 publication: '*2021 24th Euromicro Conference on Digital System Design (DSD)*'
-doi: "https://doi.org/10.1109/DSD53832.2021.00038"
+doi: "10.1109/DSD53832.2021.00038"
 
 publication_short: In *DSD*
 

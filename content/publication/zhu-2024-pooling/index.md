@@ -1,7 +1,7 @@
 ---
 title: 'Pooling On-the-go for NoC-based Convolutional Neural Network Accelerator'
 authors:
-- Wenyao Zhu
+- admin
 - Yizhi Chen
 - Zhonghai Lu
 weight: 13

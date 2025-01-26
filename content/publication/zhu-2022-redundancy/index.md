@@ -1,7 +1,7 @@
 ---
 title: 'Redundancy reduction for sensor deployment in prosthetic socket: A case study'
 authors:
-- Wenyao Zhu
+- admin
 - Yizhi Chen
 - Siu-Teing Ko
 - Zhonghai Lu
@@ -13,7 +13,7 @@ publication: '*Sensors*'
 
 weight: 9
 
-doi: "https://doi.org/10.3390/s22093103"
+doi: "10.3390/s22093103"
 
 publication_short: In *Sensors*
 

@@ -1,7 +1,7 @@
 ---
 title: 'NoCDAS: A Cycle-Accurate NoC-based Deep Neural Network Accelerator Simulator'
 authors:
-- Wenyao Zhu
+- admin
 - Yizhi Chen
 - Zhonghai Lu
 date: 2024-12-23

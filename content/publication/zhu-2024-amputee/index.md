@@ -1,7 +1,7 @@
 ---
 title: Amputee Gait Phase Recognition Using Multiple GMM-HMM
 authors:
-- Wenyao Zhu
+- admin
 - Zhenbang Liu
 - Yizhi Chen
 - Dejiu Chen
@@ -15,7 +15,7 @@ publication: '*IEEE Access*'
 
 weight: 7
 
-doi: "https://doi.org/10.1109/ACCESS.2024.3516520"
+doi: "10.1109/ACCESS.2024.3516520"
 
 publication_short: In *IEEE Access*
 

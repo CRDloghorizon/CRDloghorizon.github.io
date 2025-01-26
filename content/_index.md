@@ -46,5 +46,14 @@ sections:
       sort_by: 'weight'
     design:
       view: citation
-
+  - block: collection
+    id: all 
+    content:
+      title: 'Full publication list'
+      filters:
+        folders:
+          - markdown
+    design:
+      view: article-grid
+      columns: '1'
 ---

@@ -1,14 +1,14 @@
 ---
 title: 'Activation in Network for NoC-Based Deep Neural Network Accelerator'
 authors:
-- Wenyao Zhu
+- admin
 - Yizhi Chen
 - Zhonghai Lu
 weight: 14
 date: 2024-04-01
 publishDate: "2025-01-01T00:03:00Z"
 
-doi: "https://doi.org/10.1109/VLSITSA60681.2024.10546384"
+doi: "10.1109/VLSITSA60681.2024.10546384"
 publication_types: ['paper-conference']
 
 publication: '*2024 International VLSI Symposium on Technology, Systems and Applications (VLSI TSA)*'

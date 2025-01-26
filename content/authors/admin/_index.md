@@ -1,6 +1,6 @@
 ---
 # Display name
-title: Wenyao Zhu (朱文耀)
+title: Wenyao Zhu
 
 # Name pronunciation (optional)
 # name_pronunciation: Wenyao Zhu

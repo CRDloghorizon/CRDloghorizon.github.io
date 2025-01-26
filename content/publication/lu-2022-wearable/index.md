@@ -2,7 +2,7 @@
 title: Wearable pressure sensing for lower limb amputees
 authors:
 - Zhonghai Lu
-- Wenyao Zhu
+- admin
 - Yizhi Chen
 - Josephine Charnley
 - Valter Dejke
@@ -19,7 +19,7 @@ weight: 11
 publishDate: '2025-01-24T15:03:01.529464Z'
 publication_types: ['paper-conference']
 
-doi: "https://doi.org/10.1109/BioCAS54905.2022.9948616"
+doi: "10.1109/BioCAS54905.2022.9948616"
 publication: '*2022 IEEE Biomedical Circuits and Systems Conference (BioCAS)*'
 publication_short: In *BioCAS*
 
