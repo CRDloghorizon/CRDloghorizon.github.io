@@ -18,7 +18,7 @@ abstract: Due to the complexity and diversity of deep convolutional neural netwo
 
 featured: false
 
-doi: ""
+doi: "10.1007/978-3-031-78380-7_9"
 url_pdf: ''
 
 share: false

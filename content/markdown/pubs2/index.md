@@ -13,9 +13,9 @@ pager: false
 
 [1]. Yizhi Chen, **Wenyao Zhu**, Dejiu Chen, Omar Mohammed, Parthib Khound and Zhonghai Lu, "Impact of Image Sensor Input Faults on Pruned Neural Networks for Object Detection", in Proceedings of *2024 IEEE International Symposium on Defect and Fault Tolerance in VLSI and Nanotechnology Systems (DFT)*, Didcot, United Kingdom, 2024. -[DOI](https://doi.ieeecomputersociety.org/10.1109/DFT63277.2024.10753547)
 
-[2]. **Wenyao Zhu**, Yizhi Chen, and Zhonghai Lu, “Pooling On-the-go for NoC-based Convolutional Neural Network Accelerator”, in Proceedings of *International Conference on Embedded Computer Systems: Architectures, Modeling and Simulation (SAMOS)*, Greece, 2024. (in publication process) 
+[2]. **Wenyao Zhu**, Yizhi Chen, and Zhonghai Lu, “Pooling On-the-go for NoC-based Convolutional Neural Network Accelerator”, in Proceedings of *International Conference on Embedded Computer Systems: Architectures, Modeling and Simulation (SAMOS)*, Greece, 2024. -[DOI](https://doi.org/10.1007/978-3-031-78380-7_9)
 
-[3]. Yizhi Chen, **Wenyao Zhu**, and Zhonghai Lu, “Travel Time Based Task Mapping for NoC-Based DNN Accelerator”, in Proceedings of *International Conference on Embedded Computer Systems: Architectures, Modeling and Simulation (SAMOS)*, Greece, 2024. (in publication process) 
+[3]. Yizhi Chen, **Wenyao Zhu**, and Zhonghai Lu, “Travel Time Based Task Mapping for NoC-Based DNN Accelerator”, in Proceedings of *International Conference on Embedded Computer Systems: Architectures, Modeling and Simulation (SAMOS)*, Greece, 2024. -[DOI](http://doi.org/10.1007/978-3-031-78377-7_6)
 
 [4]. **Wenyao Zhu**, Yizhi Chen and Zhonghai Lu, "Activation in Network for NoC-Based Deep Neural Network Accelerator", in Proceedings of *2024 International VLSI Symposium on Technology, Systems and Applications (VLSI TSA)*, HsinChu, Taiwan, 2024. -[DOI](https://doi.org/10.1109/VLSITSA60681.2024.10546384)
 
