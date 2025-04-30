@@ -44,10 +44,10 @@ interests:
   - Embedded Sensor Systems
 
 education:
-  - area: Doctoral Candidate in Information and Communication Technology, Apr 2025 (Expected)
+  - area: PhD in Information and Communication Technology, Apr 2025
     institution: KTH Royal Institute of Technology
     date_start: 2020-09-01
-    date_end: 2025-04-01
+    date_end: 2025-04-30
     # summary: |
     # button:
     #   text: 'Read Thesis'
@@ -104,7 +104,7 @@ education:
 
 ## Biography
 
-I am a final-year Doctoral student at the Division of Electronic and Embedded Systems, School of EECS, KTH Royal Institute of Technology, mainly advised by Professor [Zhonghai Lu](https://www.kth.se/profile/zhonghai), and co-supervised by Associate Professor [Dejiu Chen](https://www.kth.se/profile/chendj). 
+I have completed my doctoral study at the Division of Electronic and Embedded Systems, School of EECS, KTH Royal Institute of Technology, mainly supervised by Professor [Zhonghai Lu](https://www.kth.se/profile/zhonghai), and co-supervised by Associate Professor [Dejiu Chen](https://www.kth.se/profile/chendj).
 
 My research interests include hardware accelerators for AI, Network-on-Chip, and embedded sensor systems. My recent research focuses on Network-on-Chip-based hardware accelerators, aiming to enhance their performance and efficiency for deep neural network tasks. 
 
